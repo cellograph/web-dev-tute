@@ -1,0 +1,28 @@
+/* Universal Selector */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: blueviolet;
+}
+
+/* Type Selector */
+h1 {
+  color: green;
+}
+
+/* Class Selector */
+.one {
+  color: red;
+}
+
+.two {
+  color: blue;
+}
+
+/* ID Selector */
+#rollone {
+  color: brown;
+}
+
+/* Universal < Type < Class < ID */
